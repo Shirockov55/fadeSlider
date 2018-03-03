@@ -1,0 +1,22 @@
+<div class="slider2">
+     <ul>
+        <li data-url="/Theme/Air/src/img/1.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/2.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/3.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/4.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/5.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/6.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/7.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/8.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/9.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/10.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/11.jpg" ></li>
+        <li data-url="/Theme/Air/src/img/12.jpg" ></li>
+         <!--li data-url="http://cssslider.com/sliders/pen/images/buns.jpg"></li>
+         <li data-url="http://cssslider.com/sliders/pen/images/buns.jpg"></li>
+         <li data-url="http://cssslider.com/sliders/pen/images/buns.jpg"></li-->
+         <!--li data-url="/Theme/Air/src/img/ki1.jpg"></li>
+         <li data-url="/Theme/Air/src/img/ki2.jpg"></li>
+         <li data-url="/Theme/Air/src/img/ki3.jpg"></li-->
+     </ul>      
+  </div>
